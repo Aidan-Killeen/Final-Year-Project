@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="edit.dungeon.AppTest" time="0.09" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="java.specification.version" value="15"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="c:\Users\Aidan\Desktop\College work\Fourth Year\Final Year Project\DungeonEdit\dungeon-edit\target\test-classes;c:\Users\Aidan\Desktop\College work\Fourth Year\Final Year Project\DungeonEdit\dungeon-edit\target\classes;C:\Users\Aidan\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Aidan\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="user.timezone" value="Europe/Dublin"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="java.vm.specification.version" value="15"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="user.country" value="IE"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-15\bin"/>
+    <property name="sun.java.command" value="C:\Users\Aidan\AppData\Local\Temp\surefire1432539425119438549\surefirebooter18280489205895358946.jar C:\Users\Aidan\AppData\Local\Temp\surefire1432539425119438549 2022-02-19T21-14-21_117-jvmRun1 surefire2671850753034823473tmp surefire_014972058181304811776tmp"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="surefire.test.class.path" value="c:\Users\Aidan\Desktop\College work\Fourth Year\Final Year Project\DungeonEdit\dungeon-edit\target\test-classes;c:\Users\Aidan\Desktop\College work\Fourth Year\Final Year Project\DungeonEdit\dungeon-edit\target\classes;C:\Users\Aidan\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\Aidan\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\Aidan"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.version.date" value="2020-09-15"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-15"/>
+    <property name="file.separator" value="\"/>
+    <property name="basedir" value="c:\Users\Aidan\Desktop\College work\Fourth Year\Final Year Project\DungeonEdit\dungeon-edit"/>
+    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="surefire.real.class.path" value="C:\Users\Aidan\AppData\Local\Temp\surefire1432539425119438549\surefirebooter18280489205895358946.jar"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="15+36-1562"/>
+    <property name="user.name" value="Aidan"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\Aidan\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\Aidan\AppData\Local\Temp\"/>
+    <property name="java.version" value="15"/>
+    <property name="user.dir" value="c:\Users\Aidan\Desktop\College work\Fourth Year\Final Year Project\DungeonEdit\dungeon-edit"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-15\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Java\jdk-15\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\AdoptOpenJDK\jdk-11.0.8.10-hotspot\bin;C:\Program Files (x86)\Intel\iCLS Client\;C:\ProgramData\Oracle\Java\javapath;C:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\IntelSGXPSW\bin\x64\Release\;C:\Program Files\Intel\IntelSGXPSW\bin\win32\Release\;C:\Program Files\MATLAB\R2016b\runtime\win64;C:\Program Files\MATLAB\R2016b\bin;C:\Program Files\TortoiseSVN\bin;C:\Program Files (x86)\BaseX\bin;C:\Go\bin;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;C:\Program Files (x86)\IncrediBuild;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Program Files\nodejs\;C:\Program Files\Docker\Docker\resources\bin;C:\ProgramData\DockerDesktop\version-bin;C:\OpenCV\openCV\build\x64\vc15\bin;C:\Program Files\Amazon\AWSCLIV2\;C:\Program Files\Amazon\AWSCLI2\aws.exe;C:\Program Files\apache-maven-3.8.4\bin;C:\Users\Aidan\AppData\Local\Programs\Python\Python39\Scripts\;C:\Users\Aidan\AppData\Local\Programs\Python\Python39\;C:\Users\Aidan\Desktop\College work\Third Year II\Functional Programming\Coding\bin;C:\Users\Aidan\AppData\Roaming\local\bin;C:\Users\Aidan\AppData\Local\Microsoft\WindowsApps;C:\Users\Aidan\AppData\Local\GitHubDesktop\bin;C:\Users\Aidan\AppData\Local\Microsoft\WindowsApps;C:\Users\Aidan\AppData\Local\Programs\Microsoft VS Code\bin;C:\Users\Aidan\.dotnet\tools;C:\Users\Aidan\AppData\Roaming\cabal\bin;C:\ProgramData\chocolatey\lib\ghc\tools\ghc-8.10.2\bin;C:\tools\msys64;C:\Users\Aidan\AppData\Roaming\npm;C:\Program Files\Amazon\AWSCLIV2\aws.exe;;."/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="15+36-1562"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="59.0"/>
+  </properties>
+  <testcase name="shouldAnswerWithTrue" classname="edit.dungeon.AppTest" time="0.008"/>
+</testsuite>
